@@ -1,0 +1,58 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Orologi Gioiello",
+      "precio": "100.000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlQFT62_RudYrJS6Ou7seCZ74LhhI4PbYhDEuV2N2O_jDwIN6wft5Z-ugUsFdbeCDIlCk&usqp=CAU"
+    },
+    {
+      "id": "2",
+      "nombre": "Nautilus Oro Rose",
+      "precio": "90.000",
+      "imagen": "https://www.bijouxmedusa.com/cdn/shop/products/41mm-patek-philippe-nautilus-5980r-montre-or-rose-bijoux-medusa-homme-quebec-canada-308_800x.jpg?v=1649910670"
+    },
+    {
+      "id": "3",
+      "nombre": "Nautilus Oro Bco",
+      "precio": "95.000",
+      "imagen": "https://static.patek.com/images/articles/face_white/350/7118_1453G_001_1.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "Full Iced",
+      "precio": "130.000",
+      "imagen": "https://www.bijouxmedusa.com/cdn/shop/products/41mm-patek-philippe-nautilus-full-iced-montre-or-jaune-bijoux-medusa-homme-quebec-canada-320_800x.jpg?v=1628214029"
+    },
+    {
+      "id": "2564",
+      "nombre": "Perpetuo",
+      "precio": "85.000",
+      "imagen": "https://static.patek.com/images/articles/face_white/220/5905R_010_1.jpg"
+    },
+    {
+      "id": "3e30",
+      "nombre": "Aquanaut",
+      "precio": "78.000",
+      "imagen": "https://www.vipetasaat.com/wp-content/uploads/2021/06/Patek-Philippe-Aquanaut-Chronograph-Siyah-Kadran-Turuncu-Kordon-ETA-9.jpeg"
+    },
+    {
+      "id": "1151",
+      "nombre": "Nautilus green",
+      "precio": "99.000",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlVtf3JqBuY_Xwljw_Wx6BVt5yAnNqlNSrUA&s"
+    },
+    {
+      "id": "2ccd",
+      "nombre": "Serpiente",
+      "precio": "200.000",
+      "imagen": "https://watchesworld.com.mx/wp-content/uploads/2019/06/Serpenti-Amatista-2019-3-e1560892885890.png"
+    },
+    {
+      "id": "d477",
+      "nombre": "Nautilus Oro Bco",
+      "precio": "170.000",
+      "imagen": "https://static.patek.com/images/articles/face_white/350/5260_1455R_001_1.jpg"
+    }
+  ]
+}

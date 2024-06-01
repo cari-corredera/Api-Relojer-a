@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@200;400;600&family=Press+Start+2P&display=swap" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@500&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="css/style.css">
+        <script src="./js/mostrarProductos.js" type="module" defer></script> 
+        <script src="./js/eventosFormulario.js" type="module" defer></script>
+        <script src="https://kit.fontawesome.com/2d9fe71672.js" crossorigin="anonymous"></script>
+        <title>Challenge Alura Geek</title>
+    </head>
+
+    <body>
+        <header >
+            <img class="logo" src="./img/logo_patek_text_beige.svg" alt=" imagen del logo Patek Philippe " title="logo">
+        </header>
+        <main>
+            <section id="productos">
+                <h2>PRODUCTOS:</h2>
+                <div class="contenedor-producto" data-productos>
+                  <!--   <div class="card">
+                        <img class="imagen-producto" src="./img/img taza star.jpg" />
+                        <div class="card-container--info">
+                            <p>Storm Trooper Cup</p>
+                            <div class="card-container--value">
+                                <p>$ 60.00</p>
+                                <img class="borrar" src="./img/tacho borrar.png" data-borrar/>
+                            </div>
+                        </div>
+                    </div>-->
+                </div>
+            </section>
+
+            <form id="formulario" data-formulario>
+                <h2>AGREGAR PRODUCTO:</h2>
+
+                <input type="text" placeholder="nombre..." required data-nombre>
+                <input type="text" placeholder="precio..." required data-precio>
+                <input type="text" placeholder="imagen..." required data-imagen>
+
+                <div class="contenedor-botones">
+                    <button class="enviar" type="submit">Enviar</button>
+                    <button class="limpiar" data-limpiar>Limpiar</button>
+                </div>
+            </form>
+        </main>
+
+        <footer  class="contenedor-footer">
+            <img class="logo"  src="./img/logo_patek_text_beige.svg" alt="imagen del logo Patek Philippe " title="logo">
+            <p >DESARROLLADO POR Carina Corredera </p>
+            <p class="parrafo-dos">ALURA LATAM- 2024</p>
+        </footer>
+
+    </body>
+</html>
