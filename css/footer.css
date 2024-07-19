@@ -1,0 +1,31 @@
+.contenedor-footer{
+    width:100vw;
+    height:18vh;
+    padding: 24px;
+    background: #7a5f3c;
+    display: flex ;
+    align-items: center;
+    justify-content: end;
+    flex-direction: column;
+    gap: 6px;
+    box-shadow: 0px -10px 9.5px 0px #00000040;
+
+        img.logo{
+            width:auto;
+            height:70px;
+        }
+
+        p{
+            font-family: "IBM Plex Mono";
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 16px;
+            text-align: center;
+            color: #c8b8a6;
+    
+        }
+         .parrafo-dos{
+                font-weight: 200;
+         }
+
+}

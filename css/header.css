@@ -1,0 +1,14 @@
+header{
+    width: 100vw;
+    height: 15vh;
+    background: #7a5f3c;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+
+    img.logo{
+        width:auto;
+        height:70px;
+    }
+
+}
